@@ -1,0 +1,3 @@
+Ali Raza,26SW001,Ahmed Raza,Soomro,Khairpur,3.45
+Sara Khan,26SW002,Imran Khan,Memon,Sukkur,3.90
+Bilal Ahmed,26SW003,Nadeem Ahmed,Abro,Larkana,2.75
